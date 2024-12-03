@@ -32,6 +32,8 @@ Um PodCast para narrar as histórias que aconteceram no passado da nossa humanid
 
 O resultado ficou muito bom, mas ainda tem margem para ser melhorado. A voz gratuita do ElevenLabs ficou um pouco robotizada. Um melhor resultado seria utilizar um source na versão paga, dessa forma traria mais qualidade para o projeto.
 
+Resultado final: [PodHistories](https://open.spotify.com/episode/2yFpZJWp9ziaXBLCEtaM1C).
+
 ## 💭 Reflexão (Opcional)
 
 Em apenas algumas horas, consegui criar um podcast interessante e rico em detalhes. As ferramentas de IA aceleraram significativamente o processo, permitindo um avanço exponencial. Se tivesse seguido métodos convencionais, levaria dias para produzir todo o material. Essa experiência foi verdadeiramente disruptiva e sem precedentes.
